@@ -1,0 +1,6 @@
+{
+    "IPMSG_BR_ENTRY": "1",
+    "IPMSG_BR_EXIT": "2",
+    "IPMSG_ANSENTRY": "3",
+    "IPMSG_BR_ABSENCE": "4"
+}
